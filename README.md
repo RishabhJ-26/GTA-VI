@@ -1,6 +1,7 @@
 # React + Vite
 
-View it live here : (live)[https://gta-vi-ashy-tau.vercel.app]
+View it live here: [Live](https://gta-vi-ashy-tau.vercel.app)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
